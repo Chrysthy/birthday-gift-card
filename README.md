@@ -4,4 +4,4 @@
 
 <br>
 
-<p align="center"> <img src= "https://th.bing.com/th/id/OIP.LmaUcNRfoAuUjsY5RTkZuQHaEo?rs=1&pid=ImgDetMain"> </p>
+<p align="center"> <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNlMWVrbzFpcXNpbzB4NnZyaWlhaDI2N3c4NTduZ2VibWoydnRkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBuODur5PaUlOHyQ7/giphy.gif"> </p>
