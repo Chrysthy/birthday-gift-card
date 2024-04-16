@@ -8,4 +8,4 @@
 
 <br>
 
-Picture: Credits to the author [Giphy.](https://giphy.com/) 
+Gif: Credits to the author [Giphy.](https://giphy.com/) 
