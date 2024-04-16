@@ -68,6 +68,9 @@ p {
 
 }
 
+.gift-img:hover {
+    cursor: pointer;
+}
 
 #gift-img-happy:hover {
     background-image: url("../img/happy.webp");
